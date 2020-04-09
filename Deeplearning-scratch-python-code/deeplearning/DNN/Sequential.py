@@ -1,7 +1,10 @@
 
 import os,sys
 dir = os.getcwd()
+
 sys.path.append(dir)
+print(dir)
+
 from deeplearning.loss.loss import CrossEntropy
 from deeplearning.optimizer.optimize import Adagrad,StochasticGradien
 from deeplearning.utils.utils import apply_batch_size

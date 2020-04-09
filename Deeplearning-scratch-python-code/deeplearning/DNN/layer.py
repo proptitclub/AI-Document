@@ -1,9 +1,11 @@
 import numpy as np
 import abc
-from utils.utils import initialize_parameters
-from .activation import Softmax,Relu
-from utils.imgbetweencol import im2col_indices,col2im_indices,max_pool_forward_reshape,max_pool_backward_reshape
-from .bad_layer_cnn import *
+
+from deeplearning.utils.utils import initialize_parameters
+from deeplearning.DNN.activation import Softmax,Relu
+from deeplearning.utils.imgbetweencol import im2col_indices,col2im_indices,max_pool_forward_reshape,max_pool_backward_reshape
+from deeplearning.DNN.bad_layer_cnn import *
+
 class Layer(abc.ABC):
 
     def __init__(self,**kwagrs):
