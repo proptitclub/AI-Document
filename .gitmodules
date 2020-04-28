@@ -1,0 +1,9 @@
+[submodule "VanHocVP"]
+	path = VanHocVP
+	url = https://github.com/vanhocvp/notebook_AIGen2.git
+[submodule "LeBaHoai"]
+	path = LeBaHoai
+	url = https://github.com/hoaileba/AI.git
+[submodule "TueNguyen"]
+	path = TueNguyen
+	url = https://github.com/tuenv2kProPTIT/AI.git
