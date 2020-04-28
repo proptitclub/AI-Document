@@ -7,3 +7,6 @@
 [submodule "HoaiLeBa"]
 	path = HoaiLeBa
 	url = https://github.com/hoaileba/AI-doc.git
+[submodule "Hoaf13"]
+	path = Hoaf13
+	url = https://github.com/hoaf13/AI-documents.git
