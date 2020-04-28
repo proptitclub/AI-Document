@@ -4,3 +4,6 @@
 [submodule "TueNguyen"]
 	path = TueNguyen
 	url = https://github.com/tuenv2kProPTIT/AI.git
+[submodule "HoaiLeBa"]
+	path = HoaiLeBa
+	url = https://github.com/hoaileba/AI-doc.git
