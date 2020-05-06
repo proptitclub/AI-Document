@@ -10,3 +10,6 @@
 [submodule "Hoaf13"]
 	path = Hoaf13
 	url = https://github.com/hoaf13/AI-documents.git
+[submodule "Data Scientist Roadmap"]
+	path = DoDo
+	url = https://github.com/MrMimic/data-scientist-roadmap.git
