@@ -1,15 +1,19 @@
 [submodule "VanHocVP"]
 	path = VanHocVP
 	url = https://github.com/vanhocvp/notebook_AIGen2.git
-[submodule "TueNguyen"]
-	path = TueNguyen
-	url = https://github.com/tuenv2kProPTIT/AI.git
 [submodule "HoaiLeBa"]
 	path = HoaiLeBa
 	url = https://github.com/hoaileba/AI-doc.git
 [submodule "Hoaf13"]
 	path = Hoaf13
 	url = https://github.com/hoaf13/AI-documents.git
-[submodule "Data Scientist Roadmap"]
-	path = DoDo
-	url = https://github.com/MrMimic/data-scientist-roadmap.git
+
+[submodule "DoDo/DataScientistRoadmap"]
+	path = DoDo/DataScientistRoadmap
+	url = https://github.com/dodoproptit99/data-scientist-roadmap.git
+[submodule "TueNguyen/RCNN"]
+	path = TueNguyen/RCNN
+	url = https://github.com/tuenv2kProPTIT/RCNN-RCNNwithBB.git
+[submodule "TueNguyen/UNET++"]
+	path = TueNguyen/UNET++
+	url = https://github.com/tuenv2kProPTIT/UnetPlus_tensorflow.git
