@@ -11,6 +11,9 @@
 [submodule "DoDo/DataScientistRoadmap"]
 	path = DoDo/DataScientistRoadmap
 	url = https://github.com/dodoproptit99/data-scientist-roadmap.git
+[submodule "DoDo/Voice-Document"]
+	path = DoDo/Voice-Document
+	url = https://github.com/proptitclub/AI-Voice-Document.git	
 [submodule "TueNguyen/RCNN"]
 	path = TueNguyen/RCNN
 	url = https://github.com/tuenv2kProPTIT/RCNN-RCNNwithBB.git
