@@ -20,3 +20,6 @@
 [submodule "TueNguyen/UNET++"]
 	path = TueNguyen/UNET++
 	url = https://github.com/tuenv2kProPTIT/UnetPlus_tensorflow.git
+[submodule "zerodawn1802"]
+	path = zerodawn1802
+	url = https://github.com/proptitclub/AI-Document.git
